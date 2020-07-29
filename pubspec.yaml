@@ -21,7 +21,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/angela.jpg
+    - Image/pic.jpg
 
   fonts:
   - family: Pacifico
